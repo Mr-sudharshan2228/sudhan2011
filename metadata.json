@@ -1,0 +1,6 @@
+{
+  "name": "GeminiGPT - Google Gemini Models Learning Assistant",
+  "description": "ChatGPT-style AI learning assistant and interactive workbench dedicated to mastering Google Gemini models, architectures, multimodal capabilities, and SDK integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
